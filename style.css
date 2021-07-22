@@ -59,7 +59,7 @@ body {
   position: relative;
   overflow: hidden;
   color: #fff;
-  background: #acabab;
+  background: #f33030;
 }
 
 .content h2 {
@@ -67,6 +67,6 @@ body {
 }
 
 .change {
-  background: #eb2a2a;
+  background: #9b9b9b;
 }
 /*# sourceMappingURL=style.css.map */
